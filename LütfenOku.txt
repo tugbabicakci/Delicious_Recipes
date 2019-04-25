@@ -1,0 +1,161 @@
+﻿Asp.Net Core projesi , ORM olarak Entity Framework kullanıldı , Repository patern kullanıldı.
+
+### Story 1 - *As a mobile application developer I would like to query recipes from the back-end system with the capability to query subsets so I don't get all recipes at once*
+
+
+POST : http://localhost:60936/api/tarifler/all
+      
+	  [
+    {
+        "id": 1,
+        "talimatlar": "Brown the meat in a little butter and cook until the meat is brown -- about\\n  10 minutes. Add all other ingredients and let simmer for 30 minutes. ",
+        "kategoriler": [
+            {
+                "id": 2,
+                "adi": "Acı",
+                "tarifId": 1
+            }
+        ],
+        "malzemeler": [
+            {
+                "id": 2,
+                "adi": "Tuz",
+                "tarifId": 1,
+                "miktarId": 1,
+                "miktar": null
+            },
+            {
+                "id": 3,
+                "adi": "Et",
+                "tarifId": 1,
+                "miktarId": 1,
+                "miktar": null
+            },
+            {
+                "id": 4,
+                "adi": "Karabiber",
+                "tarifId": 1,
+                "miktarId": 2,
+                "miktar": null
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "talimatlar": "Brown the meat in a little butter and cook until the meat is brown -- about\\n  10 minutes. Add all other ingredients and let simmer for 30 minutes. ",
+        "kategoriler": [
+            {
+                "id": 4,
+                "adi": "Tatlı",
+                "tarifId": 2
+            }
+        ],
+        "malzemeler": [
+            {
+                "id": 5,
+                "adi": "Yumurta",
+                "tarifId": 2,
+                "miktarId": 2,
+                "miktar": null
+            },
+            {
+                "id": 6,
+                "adi": "Şeker",
+                "tarifId": 2,
+                "miktarId": 3,
+                "miktar": null
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "talimatlar": "Brown the meat in a little butter and cook until the meat is brown -- about\\n  10 minutes. Add all other ingredients and let simmer for 30 minutes. ",
+        "kategoriler": [
+            {
+                "id": 5,
+                "adi": "Kek",
+                "tarifId": 3
+            },
+            {
+                "id": 6,
+                "adi": "Ana Yemek",
+                "tarifId": 3
+            },
+            {
+                "id": 3,
+                "adi": "Tuzlu",
+                "tarifId": 3
+            }
+        ],
+        "malzemeler": []
+    },
+    {
+        "id": 4,
+        "talimatlar": "Brown the meat in a little butter and cook until the meat is brown -- about\\n  10 minutes. Add all other ingredients and let simmer for 30 minutes. ",
+        "kategoriler": [
+            {
+                "id": 7,
+                "adi": "Salat",
+                "tarifId": 4
+            }
+        ],
+        "malzemeler": []
+    }
+]
+
+
+
+### Story 2 - *As a mobile application developer I would like to query all recipe categories from the back-end so I provide an easy selection mechanism on the web site*
+
+URL: http://localhost:60936/api/tarifler/filtre/categories
+HTTP Method: GET
+
+[
+    "Acı",
+    "Tuzlu",
+    "Tatlı",
+    "Kek",
+    "Ana Yemek",
+    "Salat"
+]
+
+### Story 3 - *As a mobile application developer I would like to have an endpoint on the back-end to add new recipes to the store*
+
+URL: http://localhost:60936/api/tarifler/add 
+HTTP Method: POST
+
+ {
+       
+        "talimatlar": "Brown the meat in a little butter and cook until the meat is brown -- about\\n  10 minutes. Add all other ingredients and let simmer for 30 minutes. ",
+        "kategoriler": [
+            {
+               
+                "adi": "Acı",
+                "tarifId": 1
+            }
+        ],
+        "malzemeler": [
+            {
+              
+                "adi": "Tuz",
+                "tarifId": 1,
+                "miktarId": 1,
+                "miktar": null
+            },
+            {
+               
+                "adi": "Et",
+                "tarifId": 1,
+                "miktarId": 1,
+                "miktar": null
+            },
+            {
+              
+                "adi": "Karabiber",
+                "tarifId": 1,
+                "miktarId": 2,
+                "miktar": null
+            }
+        ]
+    },
+    {

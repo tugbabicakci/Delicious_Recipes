@@ -1,0 +1,17 @@
+C:\Users\tugba.bicakci\source\repos\Delicious_Recipes.Api\Delicious_Recipes.Api\bin\Debug\netcoreapp2.1\Delicious_Recipes.Api.deps.json
+C:\Users\tugba.bicakci\source\repos\Delicious_Recipes.Api\Delicious_Recipes.Api\bin\Debug\netcoreapp2.1\Delicious_Recipes.Api.runtimeconfig.json
+C:\Users\tugba.bicakci\source\repos\Delicious_Recipes.Api\Delicious_Recipes.Api\bin\Debug\netcoreapp2.1\Delicious_Recipes.Api.runtimeconfig.dev.json
+C:\Users\tugba.bicakci\source\repos\Delicious_Recipes.Api\Delicious_Recipes.Api\bin\Debug\netcoreapp2.1\Delicious_Recipes.Api.dll
+C:\Users\tugba.bicakci\source\repos\Delicious_Recipes.Api\Delicious_Recipes.Api\bin\Debug\netcoreapp2.1\Delicious_Recipes.Api.pdb
+C:\Users\tugba.bicakci\source\repos\Delicious_Recipes.Api\Delicious_Recipes.Api\obj\Debug\netcoreapp2.1\Delicious_Recipes.Api.csprojAssemblyReference.cache
+C:\Users\tugba.bicakci\source\repos\Delicious_Recipes.Api\Delicious_Recipes.Api\obj\Debug\netcoreapp2.1\Delicious_Recipes.Api.csproj.CoreCompileInputs.cache
+C:\Users\tugba.bicakci\source\repos\Delicious_Recipes.Api\Delicious_Recipes.Api\obj\Debug\netcoreapp2.1\Delicious_Recipes.Api.RazorAssemblyInfo.cache
+C:\Users\tugba.bicakci\source\repos\Delicious_Recipes.Api\Delicious_Recipes.Api\obj\Debug\netcoreapp2.1\Delicious_Recipes.Api.RazorAssemblyInfo.cs
+C:\Users\tugba.bicakci\source\repos\Delicious_Recipes.Api\Delicious_Recipes.Api\obj\Debug\netcoreapp2.1\Delicious_Recipes.Api.AssemblyInfoInputs.cache
+C:\Users\tugba.bicakci\source\repos\Delicious_Recipes.Api\Delicious_Recipes.Api\obj\Debug\netcoreapp2.1\Delicious_Recipes.Api.AssemblyInfo.cs
+C:\Users\tugba.bicakci\source\repos\Delicious_Recipes.Api\Delicious_Recipes.Api\obj\Debug\netcoreapp2.1\Delicious_Recipes.Api.RazorTargetAssemblyInfo.cache
+C:\Users\tugba.bicakci\source\repos\Delicious_Recipes.Api\Delicious_Recipes.Api\obj\Debug\netcoreapp2.1\Delicious_Recipes.Api.dll
+C:\Users\tugba.bicakci\source\repos\Delicious_Recipes.Api\Delicious_Recipes.Api\obj\Debug\netcoreapp2.1\Delicious_Recipes.Api.pdb
+C:\Users\tugba.bicakci\source\repos\Delicious_Recipes.Api\Delicious_Recipes.Api\bin\Debug\netcoreapp2.1\Delicious_Recipes.Dal.dll
+C:\Users\tugba.bicakci\source\repos\Delicious_Recipes.Api\Delicious_Recipes.Api\bin\Debug\netcoreapp2.1\Delicious_Recipes.Dal.pdb
+C:\Users\tugba.bicakci\source\repos\Delicious_Recipes.Api\Delicious_Recipes.Api\obj\Debug\netcoreapp2.1\Delicious_Recipes.Api.csproj.CopyComplete

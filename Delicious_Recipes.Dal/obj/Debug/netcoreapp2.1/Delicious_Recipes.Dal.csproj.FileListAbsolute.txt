@@ -1,0 +1,14 @@
+C:\Users\tugba.bicakci\source\repos\Delicious_Recipes.Api\Delicious_Recipes.Dal\bin\Debug\netcoreapp2.1\Delicious_Recipes.Dal.deps.json
+C:\Users\tugba.bicakci\source\repos\Delicious_Recipes.Api\Delicious_Recipes.Dal\bin\Debug\netcoreapp2.1\Delicious_Recipes.Dal.dll
+C:\Users\tugba.bicakci\source\repos\Delicious_Recipes.Api\Delicious_Recipes.Dal\obj\Debug\netcoreapp2.1\Delicious_Recipes.Dal.csproj.CoreCompileInputs.cache
+C:\Users\tugba.bicakci\source\repos\Delicious_Recipes.Api\Delicious_Recipes.Dal\obj\Debug\netcoreapp2.1\Delicious_Recipes.Dal.AssemblyInfoInputs.cache
+C:\Users\tugba.bicakci\source\repos\Delicious_Recipes.Api\Delicious_Recipes.Dal\obj\Debug\netcoreapp2.1\Delicious_Recipes.Dal.AssemblyInfo.cs
+C:\Users\tugba.bicakci\source\repos\Delicious_Recipes.Api\Delicious_Recipes.Dal\bin\Debug\netcoreapp2.1\Delicious_Recipes.Dal.runtimeconfig.json
+C:\Users\tugba.bicakci\source\repos\Delicious_Recipes.Api\Delicious_Recipes.Dal\bin\Debug\netcoreapp2.1\Delicious_Recipes.Dal.runtimeconfig.dev.json
+C:\Users\tugba.bicakci\source\repos\Delicious_Recipes.Api\Delicious_Recipes.Dal\bin\Debug\netcoreapp2.1\Delicious_Recipes.Dal.pdb
+C:\Users\tugba.bicakci\source\repos\Delicious_Recipes.Api\Delicious_Recipes.Dal\obj\Debug\netcoreapp2.1\Delicious_Recipes.Dal.dll
+C:\Users\tugba.bicakci\source\repos\Delicious_Recipes.Api\Delicious_Recipes.Dal\obj\Debug\netcoreapp2.1\Delicious_Recipes.Dal.pdb
+C:\Users\tugba.bicakci\source\repos\Delicious_Recipes.Api\Delicious_Recipes.Dal\obj\Debug\netcoreapp2.1\Delicious_Recipes.Dal.csprojAssemblyReference.cache
+C:\Users\tugba.bicakci\source\repos\Delicious_Recipes.Api\Delicious_Recipes.Dal\bin\Debug\netcoreapp2.1\System.Security.Permissions.dll
+C:\Users\tugba.bicakci\source\repos\Delicious_Recipes.Api\Delicious_Recipes.Dal\bin\Debug\netcoreapp2.1\System.Security.Permissions.xml
+C:\Users\tugba.bicakci\source\repos\Delicious_Recipes.Api\Delicious_Recipes.Dal\obj\Debug\netcoreapp2.1\Delicious_Recipes.Dal.csproj.CopyComplete
